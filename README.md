@@ -375,8 +375,3 @@ B.Tech ECE · Data Analytics Enthusiast
 
 <div align="center">
 
-### ⭐ If this project helped you, give it a star!
-
-*Built with real business thinking, not just code.*
-
-</div>
