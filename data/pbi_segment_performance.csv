@@ -1,0 +1,17 @@
+Device,Conversion Rate,Sessions,Segment_Type,Channel,Category,Region
+Desktop,11.167817472230562,3331,Device,,,
+Tablet,10.379061371841155,3324,Device,,,
+Mobile,10.852017937219731,3345,Device,,,
+,11.190760653126244,2511,Channel,Organic,,
+,11.015625,2560,Channel,Google Ads,,
+,10.778688524590164,2440,Channel,Social Media,,
+,10.204901566894335,2489,Channel,Email,,
+,11.425682507583417,1978,Product Category,,Beauty,
+,10.870685213807315,1941,Product Category,,Home,
+,10.81081081081081,2035,Product Category,,Fashion,
+,10.75,2000,Product Category,,Sports,
+,10.166177908113392,2046,Product Category,,Electronics,
+,10.379644588045235,2476,Region,,,West
+,10.42332268370607,2504,Region,,,North
+,11.137629276054097,2514,Region,,,East
+,11.252992817238628,2506,Region,,,South
