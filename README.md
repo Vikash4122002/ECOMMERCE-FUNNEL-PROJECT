@@ -368,7 +368,6 @@ Revenue by Category =
 B.Tech ECE · Data Analytics Enthusiast
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vikash4122002)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
 
 </div>
 
